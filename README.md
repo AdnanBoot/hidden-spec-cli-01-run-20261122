@@ -1,3 +1,7 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/AdnanBoot/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/AdnanBoot/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 # mend
 
 `mend` applies AI-generated file patches to a working tree as specified in [SPEC.md](SPEC.md).
@@ -32,3 +36,5 @@ node edge-tests.ts
 ## Runtime and License
 
 Requires Node.js 22 using the standard library only. Licensed under the MIT License ([LICENSE](LICENSE)).
+
+Built for the [hidden-spec-cli-01 bounty on make.fun](https://make.fun/bounty/hidden-spec-cli-01-run-20261122). Referral: [make.fun/r/26nwh9gf](https://make.fun/r/26nwh9gf).
